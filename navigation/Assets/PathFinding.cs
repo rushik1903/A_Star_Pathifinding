@@ -149,6 +149,7 @@ public class PathFinding : MonoBehaviour
             }
             currentNode = currentNode.parent;
         }
+        path.Add(currentNode);
         path.Reverse();
 
         grid.path = path;

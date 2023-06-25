@@ -888,7 +888,7 @@ MonoBehaviour:
   footPathMask:
     serializedVersion: 2
     m_Bits: 256
-  footPathWalkinterest: 20
+  footPathWalkinterest: 50
   gridWorldSize: {x: 30, y: 5, z: 30}
   nodeRadius: 0.2
   kernelSideLength: 3
